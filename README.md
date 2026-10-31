@@ -29,3 +29,14 @@ The paths in this project are relative, so they also work when the site is publi
 - The font stylesheet currently loads Inter and Vazirmatn from Google Fonts. If you want fully self-hosted fonts, download licensed font files and update the CSS before launch.
 - Replace or refine service descriptions before launch so they exactly match the services you currently offer.
 - No backend, analytics, form submission service, or Telegram bot is configured.
+
+
+## Current service focus
+- Website design
+- App development (simple to moderately advanced, based on project scope)
+- Advanced Excel, including smart invoices and reporting tools
+- Office tools and document formatting
+- Web-based tools
+- Data analysis and reporting as a complementary service
+
+Automation and AI services are not currently advertised as available services. Portfolio items are clearly labeled as concept demos.
